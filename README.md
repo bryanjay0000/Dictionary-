@@ -1,6 +1,7 @@
-# Dictionary-
-This dictionary, compiled using the Pydroid 3 application from the Google Play Store, contains data extracted from Handout #1 of my Computer Fundamentals and Programming course.  The handout served as the sole source for all included entries.
+COMPUTER PROGRAMMING
 
-YouTube link:https://youtube.com/shorts/yS1PIh3rYwc?si=2__ZW6gku-Nm8o5I
+ACT LAB 3
 
-Github link: https://github.com/bryanjay0000
+GDRIVE LINK: https://drive.google.com/file/d/1dwdsKEVRSkv2RP_PPqzweHoAmJwQlDR-/view?usp=drivesdk
+
+GITHUB LINK: https://github.com/bryanjay0000/Dictionary-/blob/main/ACT%20LAB%203.py
