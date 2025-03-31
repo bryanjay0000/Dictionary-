@@ -1,7 +1,7 @@
 COMPUTER PROGRAMMING
 
-ACT LAB 5
+SEMI-FINAL 
 
-GDRIVE LINK: https://drive.google.com/file/d/1eB7LtItmSHekZGUCQadPcqkGSVIQ7K-U/view?usp=drivesdk
+ACT LAB 1ST
 
-GITHUB LINK: https://github.com/bryanjay0000/Dictionary-/blob/main/ACT%20LAB%205.py
+GITHUB LINK: https://github.com/bryanjay0000/Dictionary-/blob/main/SEMIS%201ST%20ACTIVITY%20LAB.cxx
